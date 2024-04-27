@@ -16,3 +16,5 @@ TLC Trip Record Data Yellow and green taxi trip records include fields capturing
 
 ## Data Model
 ![alt text](https://github.com/akoskissak/Uber-Data-Analytics/blob/main/data_model.JPG?raw=true)
+
+## [Result](https://lookerstudio.google.com/u/0/reporting/46f0f834-e60f-4326-b0c8-cb6fbe03c580/page/AnTyD)
